@@ -1,0 +1,45 @@
+﻿@page "/contact"
+
+<h2>Contact Us</h2>
+
+<form @onsubmit="HandleSubmit">
+    <label for="name">Your Name</label>
+    <input type="text" id="name" placeholder="Enter your name" @bind="name" required />
+
+    <label for="email">Your Email</label>
+    <input type="email" id="email" placeholder="Enter your email" @bind="email" required />
+
+    <label for="message">Your Message</label>
+    <textarea id="message" placeholder="Enter your message" rows="4" @bind="message" required></textarea>
+
+    <button type="submit">Submit</button>
+</form>
+
+
+@if (showModal)
+{
+    <div class="modal-overlay">
+        <div class="modal">
+            <h3>Confirmation</h3>
+            <p>Your message has been sent successfully! We'll get back to you soon.</p>
+            <button @onclick="CloseModal">Close</button>
+        </div>
+    </div>
+}
+@code {
+    private string name;
+    private string email;
+    private string message;
+    private bool showModal = false;
+
+    private void HandleSubmit()
+    {
+        showModal = true;
+        Console.WriteLine("123");
+    }
+
+    private void CloseModal()
+    {
+        showModal = false;
+    }
+}

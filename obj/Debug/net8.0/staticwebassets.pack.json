@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\jitw_proejkt.bundle.scp.css",
+      "PackagePath": "staticwebassets\\jitw_proejkt.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\images\\chocolate.png",
+      "PackagePath": "staticwebassets\\images\\chocolate.png"
+    },
+    {
+      "Id": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\images\\lemon.png",
+      "PackagePath": "staticwebassets\\images\\lemon.png"
+    },
+    {
+      "Id": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\images\\red_velvet.png",
+      "PackagePath": "staticwebassets\\images\\red_velvet.png"
+    },
+    {
+      "Id": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\images\\strawberry.png",
+      "PackagePath": "staticwebassets\\images\\strawberry.png"
+    },
+    {
+      "Id": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\images\\vanilla.png",
+      "PackagePath": "staticwebassets\\images\\vanilla.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.jitw_proejkt.props",
+      "PackagePath": "build\\jitw_proejkt.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.jitw_proejkt.props",
+      "PackagePath": "buildMultiTargeting\\jitw_proejkt.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.jitw_proejkt.props",
+      "PackagePath": "buildTransitive\\jitw_proejkt.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.jitw_proejkt.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,22 @@
+﻿@page "/about"
+@inject NavigationManager NavigationManager
+<section>
+    <header>
+        <h1>About Us</h1>
+    </header>
+
+    <article>
+        <p>Max's Homemade Cupcakes started as a dream to create delicious desserts for everyone.</p>
+    </article>
+
+    <footer>
+        <p>Follow our journey on social media!</p>
+    </footer>
+</section>
+
+@code {
+    private void NavigateToContact()
+    {
+        NavigationManager.NavigateTo("/contact");
+    }
+}

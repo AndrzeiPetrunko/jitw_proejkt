@@ -1,0 +1,62 @@
+﻿@page "/"
+@inject NavigationManager NavigationManager
+@using System.Collections.Generic
+
+
+<section>
+    <header>
+        <h1>Welcome to Max's Homemade Cupcakes!</h1>
+    </header>
+
+    <article>
+        <p>Freshly baked cupcakes made with love. Explore our flavors and place your orders today!</p>
+    </article>
+<div class="cupcake-container" >
+    @foreach (var cupcake in cupcakes)
+    {
+        <div class="cupcake-card">
+            <div class="cupcake-image">
+                <img src="@cupcake.Image" alt="@cupcake.Name" />
+            </div>
+            <div class="cupcake-info">
+                <h3>@cupcake.Name</h3>
+                <p class="cupcake-price">@cupcake.Price</p>
+            </div>
+            <div class="description"> 
+                    @cupcake.Description
+            </div>
+        </div>
+    }
+</div>
+
+
+    
+
+
+    <footer>
+        <p>&copy; 2025 Max's Homemade Cupcakes</p>
+    </footer>
+</section>
+
+@code {
+    private void NavigateToAbout()
+    {
+        NavigationManager.NavigateTo("/about");
+    }
+    private List<Cupcake> cupcakes = new()
+    {
+        new Cupcake { Name = "Vanilla Delight", Image = "images/vanilla.png", Price = "$2.99", Description = "A classic vanilla cupcake with a light, fluffy texture.", },
+        new Cupcake { Name = "Chocolate Heaven", Image = "images/chocolate.png", Price = "$3.49", Description = "Rich chocolate flavor topped with decadent frosting.", },
+        new Cupcake { Name = "Strawberry Bliss", Image = "images/strawberry.png", Price = "$3.29", Description = "Fresh strawberry flavor with a creamy swirl.", },
+        new Cupcake { Name = "Red Velvet", Image = "images/red_velvet.png", Price = "$3.99", Description = "A velvety red cupcake with a hint of cocoa and cream cheese frosting.", },
+        new Cupcake { Name = "Lemon Zest", Image = "images/lemon.png", Price = "$3.19", Description = "A tangy lemon cupcake with a zesty glaze.", },
+    };
+
+    public class Cupcake
+    {
+        public string? Name { get; set; }
+        public string? Image { get; set; }
+        public string? Price { get; set; }
+        public string? Description {get ; set;}
+    }
+}
