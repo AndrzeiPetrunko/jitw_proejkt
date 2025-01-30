@@ -2,7 +2,8 @@
 
 <h2>Contact Us</h2>
 
-<form @onsubmit="HandleSubmit">
+<form method="post" @onsubmit="HandleSubmit" @formname="contact-form">
+    <AntiforgeryToken />
     <label for="name">Your Name</label>
     <input type="text" id="name" placeholder="Enter your name" @bind="name" required />
 
@@ -15,31 +16,35 @@
     <button type="submit">Submit</button>
 </form>
 
-
-@if (showModal)
+@if (showModal == true)
 {
-    <div class="modal-overlay">
-        <div class="modal">
+    <div class="modal-overlay" @onclick="CloseModal">
+        <div class="modal" @onclick:stopPropagation="true">
             <h3>Confirmation</h3>
             <p>Your message has been sent successfully! We'll get back to you soon.</p>
             <button @onclick="CloseModal">Close</button>
         </div>
     </div>
 }
+
 @code {
-    private string name;
-    private string email;
-    private string message;
+    private string? name;
+    private string? email;
+    private string? message;
     private bool showModal = false;
 
     private void HandleSubmit()
     {
+        Console.WriteLine($"kliknelo sie HS");
         showModal = true;
-        Console.WriteLine("123");
+        name = string.Empty;
+        email = string.Empty;
+        message = string.Empty;
     }
 
     private void CloseModal()
     {
+        Console.WriteLine("kliknelo sie CM");
         showModal = false;
     }
 }
