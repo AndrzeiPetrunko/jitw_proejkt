@@ -1,22 +1,28 @@
 ﻿@page "/about"
-@inject NavigationManager NavigationManager
-<section>
-    <header>
+<section class="about-section">
+    <header class="about-header">
         <h1>About Us</h1>
     </header>
 
-    <article>
-        <p>Max's Homemade Cupcakes started as a dream to create delicious desserts for everyone.</p>
+    <article class="about-content">
+        <img src="images/cupcake.png" alt="Delicious Cupcakes" class="about-img" />
+
+        <p>
+            Max's Homemade Cupcakes started as a dream to create delicious desserts for everyone. Founded in 2015, we began baking with love, using only the finest ingredients to create a variety of cupcake flavors that will delight your taste buds. 
+        </p>
+
+        <h2>Our Mission</h2>
+        <p>
+            We aim to provide high-quality, freshly baked cupcakes that bring joy to every occasion. Whether it's a birthday, wedding, or just a sweet treat for yourself, Max's Homemade Cupcakes is your go-to destination for a memorable experience.
+        </p>
     </article>
 
-    <footer>
+    <footer class="about-footer">
         <p>Follow our journey on social media!</p>
+        <div class="social-links">
+            <a href="#" target="_blank">Facebook</a> | 
+            <a href="#" target="_blank">Instagram</a> | 
+            <a href="#" target="_blank">Twitter</a>
+        </div>
     </footer>
 </section>
-
-@code {
-    private void NavigateToContact()
-    {
-        NavigationManager.NavigateTo("/contact");
-    }
-}

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "nS2AALK7RTtFMhr62lXDjfyerB9cQ6oAToyKdEP76y5kB8+aVPuY4xKOv86cY8V/OAIFUV2V/LfVOhHxGyTqwA==",
+  "dgSpecHash": "d54lc40AqDE=",
   "success": true,
   "projectFilePath": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\jitw_proejkt.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\andri\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.12\\microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\andri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.12\\microsoft.windowsdesktop.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\andri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.12\\microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\andri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.12\\microsoft.netcore.app.host.win-x64.8.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -11,6 +11,7 @@ C:\Users\andri\Desktop\jitw_proejkt\obj\Debug\net8.0\jitw_proejkt.AssemblyInfoIn
 C:\Users\andri\Desktop\jitw_proejkt\obj\Debug\net8.0\jitw_proejkt.AssemblyInfo.cs
 C:\Users\andri\Desktop\jitw_proejkt\obj\Debug\net8.0\jitw_proejkt.csproj.CoreCompileInputs.cache
 C:\Users\andri\Desktop\jitw_proejkt\obj\Debug\net8.0\jitw_proejkt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andri\Desktop\jitw_proejkt\obj\Debug\net8.0\jitw_proejkt.sourcelink.json
 C:\Users\andri\Desktop\jitw_proejkt\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\andri\Desktop\jitw_proejkt\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\andri\Desktop\jitw_proejkt\obj\Debug\net8.0\staticwebassets\msbuild.jitw_proejkt.Microsoft.AspNetCore.StaticWebAssets.props
@@ -27,3 +28,6 @@ C:\Users\andri\Desktop\jitw_proejkt\obj\Debug\net8.0\refint\jitw_proejkt.dll
 C:\Users\andri\Desktop\jitw_proejkt\obj\Debug\net8.0\jitw_proejkt.pdb
 C:\Users\andri\Desktop\jitw_proejkt\obj\Debug\net8.0\jitw_proejkt.genruntimeconfig.cache
 C:\Users\andri\Desktop\jitw_proejkt\obj\Debug\net8.0\ref\jitw_proejkt.dll
+C:\Users\andri\Desktop\jitw_proejkt\bin\Debug\net8.0\jitw_proejkt.staticwebassets.endpoints.json
+C:\Users\andri\Desktop\jitw_proejkt\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\andri\Desktop\jitw_proejkt\obj\Debug\net8.0\staticwebassets\msbuild.jitw_proejkt.Microsoft.AspNetCore.StaticWebAssetEndpoints.props

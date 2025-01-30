@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\jitw_proejkt.bundle.scp.css",
-      "PackagePath": "staticwebassets\\jitw_proejkt.bundle.scp.css"
+      "PackagePath": "staticwebassets\\jitw_proejkt.iunlr2dcco.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\app.css",
@@ -19,6 +19,10 @@
     {
       "Id": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\images\\chocolate.png",
       "PackagePath": "staticwebassets\\images\\chocolate.png"
+    },
+    {
+      "Id": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\images\\cupcake.png",
+      "PackagePath": "staticwebassets\\images\\cupcake.png"
     },
     {
       "Id": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\images\\lemon.png",
@@ -47,6 +51,10 @@
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.jitw_proejkt.props",
       "PackagePath": "buildTransitive\\jitw_proejkt.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.jitw_proejkt.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.jitw_proejkt.Microsoft.AspNetCore.StaticWebAssets.props",

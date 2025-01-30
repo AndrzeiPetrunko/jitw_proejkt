@@ -1,4 +1,6 @@
-﻿@page "/contact"
+﻿@using Microsoft.AspNetCore.Components
+@using Microsoft.AspNetCore.Components.Web
+@page "/contact"
 
 <h2>Contact Us</h2>
 
@@ -15,36 +17,21 @@
 
     <button type="submit">Submit</button>
 </form>
-
-@if (showModal == true)
-{
-    <div class="modal-overlay" @onclick="CloseModal">
-        <div class="modal" @onclick:stopPropagation="true">
-            <h3>Confirmation</h3>
-            <p>Your message has been sent successfully! We'll get back to you soon.</p>
-            <button @onclick="CloseModal">Close</button>
-        </div>
-    </div>
+@if (conf){
+ <h3 class="confirm-h3">Confirmed! Thank you!</h3>
 }
-
 @code {
     private string? name;
     private string? email;
     private string? message;
-    private bool showModal = false;
+    private bool conf = false;
 
     private void HandleSubmit()
     {
-        Console.WriteLine($"kliknelo sie HS");
-        showModal = true;
+        conf = true;
         name = string.Empty;
         email = string.Empty;
         message = string.Empty;
     }
-
-    private void CloseModal()
-    {
-        Console.WriteLine("kliknelo sie CM");
-        showModal = false;
-    }
 }
+

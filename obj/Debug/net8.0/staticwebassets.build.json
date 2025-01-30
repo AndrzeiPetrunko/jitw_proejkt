@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3Ea8Wa+b0BdaaPad9Dz/WO//QKwxYwDPYk5q5pC7+aM=",
+  "Hash": "nv+tJSUhUKD5Rvi9+MeFuT0DZmrMJlJ7CkR6bhnsGzM=",
   "Source": "jitw_proejkt",
   "BasePath": "_content/jitw_proejkt",
   "Mode": "Default",
@@ -22,7 +22,7 @@
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/jitw_proejkt",
-      "RelativePath": "jitw_proejkt.styles.css",
+      "RelativePath": "jitw_proejkt#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -31,6 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "iunlr2dcco",
+      "Integrity": "BoGscrGoUU3lJeYfvoDboe5jHuRFSJ+ju7vJAunSdTQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\obj\\Debug\\net8.0\\scopedcss\\bundle\\jitw_proejkt.styles.css"
@@ -41,7 +43,7 @@
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/jitw_proejkt",
-      "RelativePath": "jitw_proejkt.bundle.scp.css",
+      "RelativePath": "jitw_proejkt#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
@@ -50,6 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "iunlr2dcco",
+      "Integrity": "BoGscrGoUU3lJeYfvoDboe5jHuRFSJ+ju7vJAunSdTQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\jitw_proejkt.bundle.scp.css"
@@ -60,15 +64,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\",
       "BasePath": "_content/jitw_proejkt",
-      "RelativePath": "app.css",
+      "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "9uuel898fp",
+      "Integrity": "X4c549xgE/XsIS3An/Oq6afTyEnwEmHj6/bEMOXjUtg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.css"
@@ -79,15 +85,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\",
       "BasePath": "_content/jitw_proejkt",
-      "RelativePath": "bootstrap/bootstrap.min.css",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
@@ -98,15 +106,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\",
       "BasePath": "_content/jitw_proejkt",
-      "RelativePath": "bootstrap/bootstrap.min.css.map",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
@@ -117,18 +127,41 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\",
       "BasePath": "_content/jitw_proejkt",
-      "RelativePath": "images/chocolate.png",
+      "RelativePath": "images/chocolate#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "0n2xag0da8",
+      "Integrity": "ZKo6xFp8mSKZVzcnNO5sPjp9xvCDmyRE2a3yLjw1aTQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\chocolate.png"
+    },
+    {
+      "Identity": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\images\\cupcake.png",
+      "SourceId": "jitw_proejkt",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\",
+      "BasePath": "_content/jitw_proejkt",
+      "RelativePath": "images/cupcake#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6smcrbr3dl",
+      "Integrity": "qoo7axVacCCX6zCjnY5U+JkiMMoM6Z067SZf4XFmz9w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cupcake.png"
     },
     {
       "Identity": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\images\\lemon.png",
@@ -136,15 +169,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\",
       "BasePath": "_content/jitw_proejkt",
-      "RelativePath": "images/lemon.png",
+      "RelativePath": "images/lemon#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "hkh15et5a0",
+      "Integrity": "MTxspO5MmzVEyv8PtHJZqX0P6gnMa3TCIQPu/3XYNEk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\lemon.png"
@@ -155,15 +190,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\",
       "BasePath": "_content/jitw_proejkt",
-      "RelativePath": "images/red_velvet.png",
+      "RelativePath": "images/red_velvet#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "jmksar0kxf",
+      "Integrity": "lRKiWC0hp9bA0YBS3E9SXUtK7jZvMYWEAfqGFyDcbgc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\red_velvet.png"
@@ -174,15 +211,17 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\",
       "BasePath": "_content/jitw_proejkt",
-      "RelativePath": "images/strawberry.png",
+      "RelativePath": "images/strawberry#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "csk9t1fssc",
+      "Integrity": "fKKVQDJvH2QfZchGoSdR3ZX3gSCpyyXyadS6ULx+D/M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\strawberry.png"
@@ -193,18 +232,924 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\",
       "BasePath": "_content/jitw_proejkt",
-      "RelativePath": "images/vanilla.png",
+      "RelativePath": "images/vanilla#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "mqv9h8z7yz",
+      "Integrity": "7slQjOcPhzdemGZ2Hn47FaL4CiJTZzRlHrIHXr0NmxQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\vanilla.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.9uuel898fp.css",
+      "AssetFile": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6683"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X4c549xgE/XsIS3An/Oq6afTyEnwEmHj6/bEMOXjUtg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 18:08:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9uuel898fp"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X4c549xgE/XsIS3An/Oq6afTyEnwEmHj6/bEMOXjUtg="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6683"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X4c549xgE/XsIS3An/Oq6afTyEnwEmHj6/bEMOXjUtg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 18:08:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X4c549xgE/XsIS3An/Oq6afTyEnwEmHj6/bEMOXjUtg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 21:37:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 21:37:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 21:37:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 21:37:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/chocolate.0n2xag0da8.png",
+      "AssetFile": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\images\\chocolate.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZKo6xFp8mSKZVzcnNO5sPjp9xvCDmyRE2a3yLjw1aTQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 21:59:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0n2xag0da8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/chocolate.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZKo6xFp8mSKZVzcnNO5sPjp9xvCDmyRE2a3yLjw1aTQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/chocolate.png",
+      "AssetFile": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\images\\chocolate.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZKo6xFp8mSKZVzcnNO5sPjp9xvCDmyRE2a3yLjw1aTQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 21:59:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZKo6xFp8mSKZVzcnNO5sPjp9xvCDmyRE2a3yLjw1aTQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/cupcake.6smcrbr3dl.png",
+      "AssetFile": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\images\\cupcake.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2112731"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qoo7axVacCCX6zCjnY5U+JkiMMoM6Z067SZf4XFmz9w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 17:46:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6smcrbr3dl"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cupcake.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qoo7axVacCCX6zCjnY5U+JkiMMoM6Z067SZf4XFmz9w="
+        }
+      ]
+    },
+    {
+      "Route": "images/cupcake.png",
+      "AssetFile": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\images\\cupcake.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2112731"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qoo7axVacCCX6zCjnY5U+JkiMMoM6Z067SZf4XFmz9w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 17:46:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qoo7axVacCCX6zCjnY5U+JkiMMoM6Z067SZf4XFmz9w="
+        }
+      ]
+    },
+    {
+      "Route": "images/lemon.hkh15et5a0.png",
+      "AssetFile": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\images\\lemon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2328966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MTxspO5MmzVEyv8PtHJZqX0P6gnMa3TCIQPu/3XYNEk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 22:01:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hkh15et5a0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/lemon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MTxspO5MmzVEyv8PtHJZqX0P6gnMa3TCIQPu/3XYNEk="
+        }
+      ]
+    },
+    {
+      "Route": "images/lemon.png",
+      "AssetFile": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\images\\lemon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2328966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MTxspO5MmzVEyv8PtHJZqX0P6gnMa3TCIQPu/3XYNEk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 22:01:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MTxspO5MmzVEyv8PtHJZqX0P6gnMa3TCIQPu/3XYNEk="
+        }
+      ]
+    },
+    {
+      "Route": "images/red_velvet.jmksar0kxf.png",
+      "AssetFile": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\images\\red_velvet.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180632"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lRKiWC0hp9bA0YBS3E9SXUtK7jZvMYWEAfqGFyDcbgc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 22:01:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jmksar0kxf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/red_velvet.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lRKiWC0hp9bA0YBS3E9SXUtK7jZvMYWEAfqGFyDcbgc="
+        }
+      ]
+    },
+    {
+      "Route": "images/red_velvet.png",
+      "AssetFile": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\images\\red_velvet.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180632"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lRKiWC0hp9bA0YBS3E9SXUtK7jZvMYWEAfqGFyDcbgc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 22:01:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lRKiWC0hp9bA0YBS3E9SXUtK7jZvMYWEAfqGFyDcbgc="
+        }
+      ]
+    },
+    {
+      "Route": "images/strawberry.csk9t1fssc.png",
+      "AssetFile": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\images\\strawberry.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1079769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fKKVQDJvH2QfZchGoSdR3ZX3gSCpyyXyadS6ULx+D/M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 21:59:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "csk9t1fssc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/strawberry.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fKKVQDJvH2QfZchGoSdR3ZX3gSCpyyXyadS6ULx+D/M="
+        }
+      ]
+    },
+    {
+      "Route": "images/strawberry.png",
+      "AssetFile": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\images\\strawberry.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1079769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fKKVQDJvH2QfZchGoSdR3ZX3gSCpyyXyadS6ULx+D/M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 21:59:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fKKVQDJvH2QfZchGoSdR3ZX3gSCpyyXyadS6ULx+D/M="
+        }
+      ]
+    },
+    {
+      "Route": "images/vanilla.mqv9h8z7yz.png",
+      "AssetFile": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\images\\vanilla.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "178784"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7slQjOcPhzdemGZ2Hn47FaL4CiJTZzRlHrIHXr0NmxQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 21:57:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mqv9h8z7yz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/vanilla.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7slQjOcPhzdemGZ2Hn47FaL4CiJTZzRlHrIHXr0NmxQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/vanilla.png",
+      "AssetFile": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\wwwroot\\images\\vanilla.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "178784"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7slQjOcPhzdemGZ2Hn47FaL4CiJTZzRlHrIHXr0NmxQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 21:57:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7slQjOcPhzdemGZ2Hn47FaL4CiJTZzRlHrIHXr0NmxQ="
+        }
+      ]
+    },
+    {
+      "Route": "jitw_proejkt.bundle.scp.css",
+      "AssetFile": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\jitw_proejkt.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BoGscrGoUU3lJeYfvoDboe5jHuRFSJ+ju7vJAunSdTQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 17:33:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BoGscrGoUU3lJeYfvoDboe5jHuRFSJ+ju7vJAunSdTQ="
+        }
+      ]
+    },
+    {
+      "Route": "jitw_proejkt.iunlr2dcco.bundle.scp.css",
+      "AssetFile": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\jitw_proejkt.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BoGscrGoUU3lJeYfvoDboe5jHuRFSJ+ju7vJAunSdTQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 17:33:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iunlr2dcco"
+        },
+        {
+          "Name": "label",
+          "Value": "jitw_proejkt.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BoGscrGoUU3lJeYfvoDboe5jHuRFSJ+ju7vJAunSdTQ="
+        }
+      ]
+    },
+    {
+      "Route": "jitw_proejkt.iunlr2dcco.styles.css",
+      "AssetFile": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\obj\\Debug\\net8.0\\scopedcss\\bundle\\jitw_proejkt.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BoGscrGoUU3lJeYfvoDboe5jHuRFSJ+ju7vJAunSdTQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 17:33:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iunlr2dcco"
+        },
+        {
+          "Name": "label",
+          "Value": "jitw_proejkt.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BoGscrGoUU3lJeYfvoDboe5jHuRFSJ+ju7vJAunSdTQ="
+        }
+      ]
+    },
+    {
+      "Route": "jitw_proejkt.styles.css",
+      "AssetFile": "C:\\Users\\andri\\Desktop\\jitw_proejkt\\obj\\Debug\\net8.0\\scopedcss\\bundle\\jitw_proejkt.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BoGscrGoUU3lJeYfvoDboe5jHuRFSJ+ju7vJAunSdTQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 17:33:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BoGscrGoUU3lJeYfvoDboe5jHuRFSJ+ju7vJAunSdTQ="
+        }
+      ]
     }
   ]
 }
